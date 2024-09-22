@@ -734,6 +734,6 @@ a {
   }
 }
 /* Sign-up Callout */
-.callout-signup {
-  transition: translateY(5rem);
+.callout--signup {
+  transform: translateY(5rem);
 }
